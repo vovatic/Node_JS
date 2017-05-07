@@ -1,0 +1,22 @@
+{
+  "name": "vovatic",
+  "version": "1.0.0",
+  "description": "2nd test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovatic/NodeJS.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "vovatic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovatic/NodeJS/issues"
+  },
+  "homepage": "https://github.com/vovatic/NodeJS#readme"
+}
